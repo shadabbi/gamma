@@ -1,0 +1,140 @@
+.background{
+
+  background-image: url("./images/background.jpg");
+
+  color: white;
+  position: absolute;
+  height: 500px;
+
+  padding: 89.5px
+
+}
+.phone{
+  z-index: 1;
+  position: absolute;
+  right: 150px;
+  top: 150px;
+}
+
+h1{
+  font-size: 80px;
+}
+
+.download{
+  margin-top: 100px;
+
+  padding-right: 10px;
+}
+
+.google{
+  margin-top: 100px;
+}
+p{
+
+  font-size: 25px;
+  width: 555px;
+}
+
+.life{
+
+  color:green;
+}
+
+.gamma{
+  color: green;
+}
+
+.google{
+
+  padding-left: 10px;
+}
+
+.row{
+
+  position: absolute;
+  z-index: 1;
+  top: 690px;
+  margin: auto 60px;
+
+
+}
+
+.image{
+
+
+  width:350px;
+  height: 285px;
+  border: 1px solid grey;
+  margin:0 10px;
+}
+.col-lg-4{
+  background-color:white;
+}
+
+
+.row p{
+  font-size: 15px;
+  width: 359px;
+}
+
+.last{
+  position: absolute;
+  color: white;
+  background-color: #49beb7;
+  margin-top: 420px;
+  height: 300px;
+  margin-left: 0;
+
+}
+
+li{
+
+  font-size: 25px;
+  line-height: 1.5;
+}
+
+.last h2{
+
+  font-size: 35px;
+  margin-top: 50px;
+  margin-left: 70px;
+}
+
+ul{
+margin-left: 70px;
+list-style: none;
+}
+
+.camra{
+  width: 200px;
+  margin-top: 40px;
+}
+
+.leftcamra{
+
+  margin-left: 150px;
+}
+
+.bottom{
+  background-color: #333;
+  margin-top: 720px;
+  margin-left: 0;
+  height: 80px;
+  text-align: center;
+}
+
+a{
+
+  margin: 20px;
+  color: white;
+}
+
+.copy{
+  color: white;
+  margin-top: 40px;
+}
+
+.anchor{
+
+  margin-top: 40px;
+}
